@@ -1,3 +1,2 @@
-"# Grafana" 
-
-![Image description](C:\Users\Jean-Baptiste\Desktop\Grafana\grafanahero.jpg)
+# Grafana"
+<img src="grafanahero.jpg">
